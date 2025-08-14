@@ -1,108 +1,78 @@
-# Hi there! 👋 I'm Ivan Ruzavin  
+# 👋 Hi, I'm **Ivan Ruzavin**  
 
-🌟 **Embedded Software Engineer**  
-🎓 Currently working at [MikroE](https://www.mikroe.com), specializing in embedded systems and software development for microcontrollers.  
+💡 **Embedded Software Engineer** at [MikroE](https://www.mikroe.com)  
+⚙️ Specializing in **SDK design**, **peripheral drivers**, and **microcontroller firmware**  
 
 ---
 
 ## 🚀 About Me  
 
-- 💻 **Professional Experience**:  
-  With over 2 years of experience as an Embedded Software Developer, I have expertise in designing and implementing SDKs for multiple microcontroller families, including:  
-  - **STM32**  
-  - **NXP**
-  - **TIVA**
-  - **Microchip PIC18, dsPIC, and PIC32**  
-  - **GigaDevice GD32**  
-  - **AVR, ATmega**  
-  - **ATSAM Series**
-  - **Renesas**
-  - **TOSHIBA**
-  - **Nuvoton**
+I’m an **embedded systems engineer** with 2+ years of professional experience designing unified SDKs and drivers for diverse microcontroller families, including:  
 
-  My primary focus is creating unified SDKs for peripherals like **I2C, SPI, UART, ADC, PMW, USB, Ethernet**, and **CAN** and exploring more complex modules like VGA and HDMI for my personal projects.  
+- **STM32**, **NXP**, **TIVA**, **PIC18**, **dsPIC**, **PIC32**, **GigaDevice GD32**  
+- **AVR / ATmega**, **ATSAM**, **Renesas**, **TOSHIBA**, **Nuvoton**  
 
-- 🛠️ **Technologies and Implementations**:  
-  - Developed **[CycloneTCP Ethernet support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/ethernet)**, enabling seamless network communication.
-  - Integrated **CAN protocol support** across multiple architectures.
-  - Designed efficient **DMA support** for high-speed data transfer.
-  - Implemented **[TinyUSB stack support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/usb)**, enhancing USB device capabilities for various MCUs.
+🔹 My expertise covers peripherals like **I2C**, **SPI**, **UART**, **ADC**, **PWM**, **USB**, **Ethernet**, **CAN**, and advanced modules like **VGA** and **HDMI** for personal projects.  
 
-- 📚 **Corporate Contributions**:  
-  At MikroE, I contribute to **[mikroSDK](https://github.com/MikroElektronika/mikrosdk_v2)** and **[CORE support](https://github.com/MikroElektronika/core_packages)**, ensuring robust SDK support for a wide range of architectures.
+**Notable Contributions**  
+- 💻 [CycloneTCP Ethernet Support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/ethernet) — seamless embedded networking  
+- 🚗 Multi-architecture **CAN protocol support**  
+- ⚡ High-performance **DMA integration** for fast data transfer  
+- 🔌 [TinyUSB stack support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/usb) — USB device capabilities across MCUs  
+- 🏗️ Contributions to [mikroSDK](https://github.com/MikroElektronika/mikrosdk_v2) and [CORE packages](https://github.com/MikroElektronika/core_packages)  
 
 ---
 
-## 🔧 Tools and Technologies  
+## 🛠️ Tools & Technologies  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRuzavin&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="IvanRuzavin's Top Languages" />
-</p>
+**Cores / Architectures:**  
+`ARM Cortex-M0` · `Cortex-M1` · `Cortex-M3` · `Cortex-M4` · `Cortex-M7` · `Cortex-M23` · `Cortex-M33` · `Cortex-M85`  
+`RISC-V` · `PIC18` · `PIC24` · `dsPIC30` · `dsPIC33` · `PIC32` · `AVR`  
 
-## 🔧 Cortexes/Cores
+**Compilers:**  
+`GCC (ARM / RISC-V)` · `Clang (ARM / RISC-V)` · `XC32` · `XC16` · `XC8` · `MikroC`  
 
-- I have a decent experience with the following Cortexes/Cores:
-    - ARM Cortex-M0
-    - ARM Cortex-M1
-    - RISC-V
-    - ARM Cortex-M23
-    - ARM Cortex-M33
-    - ARM Cortex-M3
-    - ARM Cortex-M4
-    - ARM Cortex-M7
-    - ARM Cortex-M85
-    - PIC18
-    - PIC24
-    - dsPIC30
-    - dsPIC33
-    - PIC32
-    - AVR
-
-- I have worked with the following compilers:
-    - GCC for ARM
-    - Clang for ARN
-    - GCC for RISC-V
-    - Clang for RISC-V
-    - XC32
-    - XC16
-    - XC8
-    - MikroC
+**Specialties:**  
+- Embedded C & C++  
+- Low-level hardware interfacing  
+- Peripheral driver development  
+- SDK architecture and cross-platform HALs  
 
 ---
 
-## 🔥 Activity Stats  
+## 📊 Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanRuzavin&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=CCEF00&fire=FF4E15" alt="IvanRuzavin's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanRuzavin&theme=graywhite&hide_border=true&ring=CCEF00&fire=FF4E15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRuzavin&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" />
 </p>
 
-[![IvanRuzavin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanRuzavin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanRuzavin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
 ## 🎯 Codewars  
 
 <p align="center">
-  <img src="https://www.codewars.com/users/ladrian/badges/large?logo=false" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/ladrian/badges/large?logo=false" />
 </p>
 
 ---
 
-## 📫 Get in Touch  
+## 📫 Connect With Me  
 
-- 📧 **Email**: [ivan.ruzavin98@gmail.com](mailto:ivan.ruzavin98@gmail.com)  
-- 💼 **LinkedIn**: [Ivan Ruzavin](https://www.linkedin.com/in/ivan-ruzavin-825b20251/) 
+📧 [ivan.ruzavin98@gmail.com](mailto:ivan.ruzavin98@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/ivan-ruzavin-825b20251/)  
 
 ---
 
 ## ⚡ Fun Facts  
 
-- 🎵 I’m a **professional singer**.  
-- 🥊 I enjoy boxing.  
-- 🍺 Beer-lover.  
-- 🌍 I miss traveling and exploring new places.  
+🎵 Professional singer  
+🥊 Boxing enthusiast  
+🍺 Beer lover  
+🌍 Travel addict  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IvanRuzavin&style=for-the-badge&color=CCEF00" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IvanRuzavin&style=for-the-badge&color=CCEF00" />
 </p>
-TIVA
