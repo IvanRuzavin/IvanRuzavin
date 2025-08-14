@@ -9,7 +9,9 @@
 
 - 💻 **Professional Experience**:  
   With over 2 years of experience as an Embedded Software Developer, I have expertise in designing and implementing SDKs for multiple microcontroller families, including:  
-  - **STM32 (Cortex-M0, M1, M3, M4, M7)**  
+  - **STM32**  
+  - **NXP**
+  - **TIVA**
   - **Microchip PIC18, dsPIC, and PIC32**  
   - **GigaDevice GD32**  
   - **AVR, ATmega**  
@@ -36,6 +38,35 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRuzavin&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="IvanRuzavin's Top Languages" />
 </p>
+
+## 🔧 Cortexes/Cores
+
+- I have a decent experience with the following Cortexes/Cores:
+    - ARM Cortex-M0
+    - ARM Cortex-M1
+    - RISC-V
+    - ARM Cortex-M23
+    - ARM Cortex-M33
+    - ARM Cortex-M3
+    - ARM Cortex-M4
+    - ARM Cortex-M7
+    - ARM Cortex-M85
+    - PIC18
+    - PIC24
+    - dsPIC30
+    - dsPIC33
+    - PIC32
+    - AVR
+
+- I have worked with the following compilers:
+    - GCC for ARM
+    - Clang for ARN
+    - GCC for RISC-V
+    - Clang for RISC-V
+    - XC32
+    - XC16
+    - XC8
+    - MikroC
 
 ---
 
@@ -74,3 +105,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IvanRuzavin&style=for-the-badge&color=CCEF00" alt="Profile Views" />
 </p>
+TIVA
