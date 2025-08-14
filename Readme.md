@@ -34,7 +34,7 @@
 ## 🔧 Tools and Technologies  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroharu&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="kroharu's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRuzavin&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="IvanRuzavin's Top Languages" />
 </p>
 
 ---
@@ -42,10 +42,10 @@
 ## 🔥 Activity Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanRuzavin&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=CCEF00&fire=FF4E15" alt="kroharu's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanRuzavin&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=CCEF00&fire=FF4E15" alt="IvanRuzavin's Streak Stats" />
 </p>
 
-[![kroharu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanRuzavin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![IvanRuzavin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanRuzavin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -72,5 +72,5 @@
 - 🌍 I miss traveling and exploring new places.  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kroharu&style=for-the-badge&color=CCEF00" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IvanRuzavin&style=for-the-badge&color=CCEF00" alt="Profile Views" />
 </p>
