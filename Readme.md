@@ -10,7 +10,7 @@
 I’m an **embedded systems engineer** with 2+ years of professional experience designing unified SDKs and drivers for diverse microcontroller families, including:  
 
 - **STM32**, **NXP**, **TIVA**, **PIC18**, **dsPIC**, **PIC32**, **GigaDevice GD32**  
-- **AVR / ATmega**, **ATSAM**, **Renesas**, **TOSHIBA**, **Nuvoton**  
+- **AVR / ATmega**, **ATSAM**, **Renesas**, **TOSHIBA**, **Nuvoton**, **Infineon**
 
 🔹 My expertise covers peripherals like **I2C**, **SPI**, **UART**, **ADC**, **PWM**, **USB**, **Ethernet**, **CAN**, and advanced modules like **VGA** and **HDMI** for personal projects.  
 
