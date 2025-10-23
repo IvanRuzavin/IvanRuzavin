@@ -182,7 +182,7 @@
 <p align="center">
   <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="languages/Rust.png" style="width:100px;"><br>
-    <b style="display:block; margin:2px 0;">J-Link</b>
+    <b style="display:block; margin:2px 0;">Rust</b>
   </span>
 </p>
 
