@@ -91,7 +91,7 @@
 </p>
 <p align="center">
   <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="cortexes/riscv-gnu.png" style="width:80;"><br>
+    <img src="cortexes/riscv-gnu.png" style="width:80px;"><br>
     <b style="display:block; margin:2px 0;">RISC-V</b>
   </span>
 </p>
