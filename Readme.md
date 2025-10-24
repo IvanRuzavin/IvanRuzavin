@@ -162,29 +162,25 @@
 <p align="center">
   <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="prog_tools/gdb_general.png" style="width:100px;"><br>
-    <b style="display:block; margin:2px 0;">Other GDB Programmers</b>
+    <b style="display:block; margin:2px 0;">ST-Link, E2 Programmer, etc.</b>
   </span>
 </p>
 
 ### Programming Languages:
-<p align="center">
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="languages/C.png" style="width:170px;"><br>
-    <b style="display:block; margin:2px 0;">C and C++</b>
+<div align="center">
+  <span style="display:inline-block; text-align:center; margin:10px; vertical-align:top;">
+    <img src="languages/C.png" style="width:170px; display:block; margin:10px;">
   </span>
-</p>
-<p align="center">
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="languages/Python.png" style="width:100px;"><br>
-    <b style="display:block; margin:2px 0;">Python</b>
+  <span style="display:inline-block; text-align:center; margin:10px; vertical-align:top;">
+    <img src="languages/Python.png" style="width:100px; display:block; margin:10px;">
   </span>
-</p>
-<p align="center">
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="languages/Rust.png" style="width:100px;"><br>
-    <b style="display:block; margin:2px 0;">Rust</b>
+  <span style="display:inline-block; text-align:center; margin:10px; vertical-align:top;">
+    <img src="languages/Rust.png" style="width:100px; display:block; margin:10px;">
   </span>
-</p>
+</div>
+<div align="center">
+  <b>C and C++      </b><b>    Python    </b><b>    Rust     </b>
+</div>
 
 **Specialties:**
 - Embedded C & C++
